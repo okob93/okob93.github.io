@@ -1,3 +1,3 @@
 **Portflio About me**
 
-*This text is italicized*
+*Love watching football and Coding*
