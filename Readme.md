@@ -11,5 +11,5 @@ Navigate my website using these links
 * [Skills](./skills.html)
 * [Hobbies](./hobbie.html)
 * [Website](./website.html)
-* [Web](./web.md)
+* [Web](./web.html)
 
