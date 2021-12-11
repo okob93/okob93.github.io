@@ -9,4 +9,4 @@ Majoring in IT
 Navigate my website using these links
 
 * [Skills](./skills.html)
-* [Hobbies](./hobbies.html)
+* [Hobbies](./hobbie.html)
